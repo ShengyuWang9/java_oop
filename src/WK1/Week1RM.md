@@ -456,7 +456,7 @@ java RobotWorld
 * 有一个字段 `sum`
 * 构造器把它初始化为 0
 * `add(int)` 方法负责累加
-- 具体实现可以查看 [Adder.java](src/WK1/example_code/Adder.java)
+- 具体实现可以查看 [Adder.java](example_code/Adder.java)
 
 ### `Calculator`
 
@@ -464,7 +464,7 @@ java RobotWorld
 * 遍历 `args`
 * 用 `Integer.parseInt(arg)` 把字符串转成整数
 * 再调用 `adder.add(...)`
-- 具体实现可以查看 [Calculator.java](src/WK1/example_code/Calculator.java)
+- 具体实现可以查看 [Calculator.java](example_code/Calculator.java)
 
 
 最后输出总和。
