@@ -21,4 +21,8 @@ public class Exceptions {
             System.out.println("转换失败");
         }//试着运行try 没问题就正常走下去 出现问题NumberFormatException 跳到catch里
     }
+
+//2.checked exception和unchecked exception的区别
+
+//
 }
